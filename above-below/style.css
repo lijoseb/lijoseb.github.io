@@ -1,0 +1,42 @@
+body {
+	background-color: black;
+	color: lightgray;
+	text-align: center;
+}
+
+.prompt {
+	text-align: center;
+	color:white;
+	font-size: 80px;
+	background-color:lightblue;}
+
+#firstresponse {
+	font-size: 30px;	
+	background-color: lightgrey;
+	color: grey;
+}
+
+#gods{
+	 font-size: 60px;
+}
+
+ul{
+color:lightgrey;
+text-align: left;
+}
+
+#realm {
+	background-color: olive;
+	font-size: 80px;
+	font-family: monospace;
+	margin-right: 400px;
+}
+
+#float {
+	background-color: white;
+	color: black;
+	font-size: 80px;
+	font-family: monospace;
+	margin-left: 400px;
+	border-radius: 20%
+}
